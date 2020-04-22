@@ -8,7 +8,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <h1>Yelp Clone</h1>
+        <h1>Yelp API</h1>
         <SearchBar />
         <BusinessList /> 
       </div>
